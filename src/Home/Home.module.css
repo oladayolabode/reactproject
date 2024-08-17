@@ -54,11 +54,11 @@
 }
 .contactus button{
     background-color: #493434;
-    margin-left: 25px;
-    height: 35px;
-    width: 125px;
+    height: 65px;
+    width: 185px;
     border: none;
     color: #fff;
     border-radius: 10px;
     cursor: pointer;
+    font-size: 20px;
 }
