@@ -1,0 +1,64 @@
+.title{
+    background-image: url('../amen\ II.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30rem;
+    width: 100%;
+}
+.title img{
+    width: 100%;
+    height: 400px;
+}
+.title p{
+    text-align: center;
+    position: relative;
+    font-size: 75px;
+    color: #fff;
+    padding-top: 5rem;
+}
+.title h4{
+    font-size: 25px;
+    width: 25%;
+    margin-left: 25px;
+    color: #fff;
+}
+.title button{
+    background-color: #493434;
+    margin-left: 25px;
+    height: 35px;
+    width: 125px;
+    border: none;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.discount p{
+    text-align: center;
+    font-size: 25px;
+}
+.furnitures{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 4rem;
+}
+.furnitures img{
+    width: 30rem;
+    height: 30rem;
+}
+.furnitures p{
+    font-size: 25px;
+}
+.contactus{
+    text-align: center;
+}
+.contactus button{
+    background-color: #493434;
+    margin-left: 25px;
+    height: 35px;
+    width: 125px;
+    border: none;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+}
