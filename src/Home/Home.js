@@ -3,6 +3,7 @@ import classes from './Home.module.css'
 import furniture1 from '../img2.png'
 import furniture2 from '../ojodu.png'
 import furniture3 from '../amenestate.png'
+import { Link } from "react-router-dom";
 
 
 const Home = () => {
@@ -32,7 +33,9 @@ const Home = () => {
                 </div>
             </div>
             <div className={classes.contactus}>
-                <button>CONTACT US</button>
+                <Link to="/contact">
+                    <button>CONTACT US</button>
+                </Link>
             </div>
         </div>
     </div>
